@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    background-color: aliceblue;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {color: rgb(54, 54, 197);
+    margin:50px 100px;
+
+}
+
+.todoArea {
+    background-color: #fff;
+    margin: 30px 80px;
+    padding: 30px;
+
+}
+
+li {
+    list-style: none;
+}
